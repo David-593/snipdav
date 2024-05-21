@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: white;
+}
+
+.contain-name_menu{
+    padding: 30px;
+    background: red;
+    width: 100%;
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: larger;
+}
+
+.contain-option_menu{
+    list-style: none;
+    padding: 0;
+    background: black;
+    width: 100%;
+    max-width: 100%;
+    margin: auto;
+    text-align: left;
+}
+
+.contain-option_menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+
+.contain-option_menu li{
+    display: inline-block;
+    text-align: center;
+    
+}
